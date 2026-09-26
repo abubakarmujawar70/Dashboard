@@ -3,4 +3,4 @@
 Developed an interactive Excel dashboard using Pivot Tables, Pivot Charts, and Slicers to analyze sales,
 orders, customer demographics, order status, and sales performance across states and channels
 Generated business insights by tracking monthly sales trends, gender-wise purchasing behavior, top
-performing states, and order distribution, enabling data-driven decision-making
+performing states, and order distribution, enabling data-driven decision-making.
